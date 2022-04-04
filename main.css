@@ -38,6 +38,7 @@ h1 {
 .bill label {
     flex: 1;
     align-self: center;
+    
 }
 
 .bill input {
